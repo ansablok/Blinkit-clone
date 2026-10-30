@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#header{
+    min-height:100px;
+    display:flex;
+    align-items:center;
+    gap:16px;
+    padding:0 20px;
+    background-color:white
+}
+#name{
+    font-size:xx-large;
+    color:orangered;
+    font-weight:bold;
+}
+#delivery-info{
+    width:auto;
+    height:auto;
+    padding:8px 12px;
+    text-weight:bold;
+}
+
+
